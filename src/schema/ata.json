@@ -1,0 +1,82 @@
+[
+  {
+    "userId": "21003bea-0feb-408f-826d-d427768416e9",
+    "date": "2025-07-15T22:25:49",
+    "description": "Present agency someone song",
+    "amount": 2613.19,
+    "category": "Food",
+    "paymentMethod": "UPI"
+  },
+  {
+    "userId": "3c106b02-9a83-43a5-b9c0-34d3fdc3f1c4",
+    "date": "2025-07-14T20:45:28",
+    "description": "Necessary parent customer similar",
+    "amount": 2572.46,
+    "category": "Travel",
+    "paymentMethod": "Net Banking"
+  },
+  {
+    "userId": "c2716aef-4430-4255-bc5e-61d2f9713dc0",
+    "date": "2025-06-11T00:50:36",
+    "description": "Central able relationship respond",
+    "amount": 3444.29,
+    "category": "Food",
+    "paymentMethod": "Net Banking"
+  },
+  {
+    "userId": "96e8faca-041c-4d39-aa4e-1be2159b04d6",
+    "date": "2025-05-25T10:48:11",
+    "description": "Similar through",
+    "amount": 3952.58,
+    "category": "Shopping",
+    "paymentMethod": "UPI"
+  },
+  {
+    "userId": "3c84d986-2dfc-4888-9e68-c48a1e5671fc",
+    "date": "2025-07-31T21:46:21",
+    "description": "Point admit respond",
+    "amount": 752.27,
+    "category": "Entertainment",
+    "paymentMethod": "Cash"
+  },
+  {
+    "userId": "87973bb8-2581-4303-8f3e-3f7f812b4bf8",
+    "date": "2025-05-14T06:10:55",
+    "description": "Tree necessary foot general course",
+    "amount": 4021.01,
+    "category": "Entertainment",
+    "paymentMethod": "Net Banking"
+  },
+  {
+    "userId": "ace753cf-d3f8-4c3a-a566-e4462742c324",
+    "date": "2025-07-24T16:27:29",
+    "description": "Politics mean",
+    "amount": 363.24,
+    "category": "Food",
+    "paymentMethod": "Debit Card"
+  },
+  {
+    "userId": "4d163cd7-1f4a-48e6-8b17-b0118326a5d2",
+    "date": "2025-05-16T14:02:06",
+    "description": "Security develop politics",
+    "amount": 2868.24,
+    "category": "Travel",
+    "paymentMethod": "Cash"
+  },
+  {
+    "userId": "0c8835ba-5dab-449d-80a4-27a54d83acd3",
+    "date": "2025-06-21T00:50:23",
+    "description": "Add media wait happy",
+    "amount": 1564.01,
+    "category": "Transport",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "userId": "ac665b11-af71-4877-8711-822d011f03e0",
+    "date": "2025-06-09T18:41:11",
+    "description": "Well old medical",
+    "amount": 853.44,
+    "category": "Entertainment",
+    "paymentMethod": "Cash"
+  }
+]
